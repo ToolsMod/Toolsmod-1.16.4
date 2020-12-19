@@ -1,0 +1,10 @@
+{
+	"release": "12/19/2020",
+	"changes": [
+		{
+			"feature": "1.16.4",
+			"desc": "Upgraded from the 1.15 to 1.16.4.",
+			"type": 2
+		}
+	]
+}
